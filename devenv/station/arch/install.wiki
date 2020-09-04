@@ -1,38 +1,42 @@
 # Arch Install Guide for Beginners
 
-This guide is intended to supplement the [Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide), as it isn't straightforward enough for a person brand new to Linux to follow.   You will need a laptop with both this guide and the Arch Install guide open side by side in 2 windows.  Be prepared and pay extreme attention to detail, because if you miss a step, it could mean having to restart.
+This guide is intended to supplement the [Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide), as it isn't straightforward enough for a person brand new to Linux to follow.   You will need a laptop with both this guide and the Arch Wiki ("AW") guide open side by side in 2 windows.  
 
-| #    | STEP                | HELP LINK | NOTES | TERMINAL COMMAND |
-| ---- | ------------------- | --------- | ----- | ---------------- |
-| 1    | Create Bootable USB | Link      |       |                  |
-| 2    | Verify boot mode    |           |       |                  |
-| 3    |                     |           |       |                  |
-| 4    |                     |           |       |                  |
-| 5    |                     |           |       |                  |
-| 6    |                     |           |       |                  |
-| 7    |                     |           |       |                  |
-| 8    |                     |           |       |                  |
-| 9    |                     |           |       |                  |
-| 10   |                     |           |       |                  |
-| 11   |                     |           |       |                  |
-| 12   |                     |           |       |                  |
-| 13   |                     |           |       |                  |
-| 14   |                     |           |       |                  |
-| 15   |                     |           |       |                  |
-| 16   |                     |           |       |                  |
-| 17   |                     |           |       |                  |
-| 18   |                     |           |       |                  |
-| 19   |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
-|      |                     |           |       |                  |
+Each step in this guide references a section of the AW guide.  The best way to follow this guide is to use the AW Guide as the main guide, and keep checking this guide as you go along, to see if there's a "Suggested Action" for any of the sections of the AW guide.
+
+Be prepared and pay extreme attention to detail, because if you miss a step, it could mean having to restart.  Everything is important.
+
+| #    | ARCH WIKI HEADER              | SUGGESTED ACTION                                             | HELP |    NOTES    | TERM COMMAND |
+| ---- | ----------------------------- | ------------------------------------------------------------ | :--: | :---------: | :----------: |
+| 1    | Acquire an installation image | Use 'Etcher' to create the USB                               | Link |             |     n/a      |
+| 2    | Boot the live environment     | If your computer won't boot the USB, press the hotkey for accessing your firmware menu (Esc/F10/Shift), and select the "Boot Menu", and select the USB stick.  This will bring up a new screen, and select "Arch install medium X86" |      |             |              |
+| 3    | Verify the boot disks         |                                                              |      | likely UFEI |     n/a      |
+| 4    | Partition the disk            |                                                              |      |             |              |
+| 5    |                               |                                                              |      |             |              |
+| 6    |                               |                                                              |      |             |              |
+| 7    |                               |                                                              |      |             |              |
+| 8    |                               |                                                              |      |             |              |
+| 9    |                               |                                                              |      |             |              |
+| 10   |                               |                                                              |      |             |              |
+| 11   |                               |                                                              |      |             |              |
+| 12   |                               |                                                              |      |             |              |
+| 13   |                               |                                                              |      |             |              |
+| 14   |                               |                                                              |      |             |              |
+| 15   |                               |                                                              |      |             |              |
+| 16   |                               |                                                              |      |             |              |
+| 17   |                               |                                                              |      |             |              |
+| 18   |                               |                                                              |      |             |              |
+| 19   |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
+|      |                               |                                                              |      |             |              |
 
 
 
