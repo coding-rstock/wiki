@@ -8,10 +8,6 @@ It's best to create this environment before diving into the actual learning how 
 
 Every developer will have different preferences and work styles, and the goal is to create an environment that is custom made for you that maximizes productivity and efficiency while maintaining long term physical and emotional health.  A setup might be productive while causing eye or wrist or back pain isn't sustainable.  On the other hand, a setup might be sustainable yet not efficient, and result in hundreds of hours wasted over one's career.  
 
-##### Developer Workstation (Computer)
+[Developer Workstation (Computer)](/devenv/station):  Your developer workstation includes your computer, the operating system, and the set of basic tools that you need to optimize your productivity and efficiency.  
 
-Your developer workstation includes your computer, the operating system, and the set of basic tools that you need to optimize your productivity and efficiency.  
-
-##### Developer Workspace (Office)
-
-Your developer workspace includes your office, your desk, chair, audio, screens, mouse, accessories, etc.
+[Developer Workspace (Office)](/devenv/space): Your developer workspace includes your office, your desk, chair, audio, screens, mouse, accessories, etc.
