@@ -1,0 +1,23 @@
+# Developer Workstation
+
+Computer
+
+- PC
+- Laptop
+- Screens
+
+Operating Systems
+
+- Linux
+- MacOSx
+- Windows
+
+Workstation Tools
+
+- Editor
+- Terminal
+- Shell
+- File Manager
+- EWindows Manager
+- 
+
