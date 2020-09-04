@@ -1,5 +1,7 @@
 # Richard's Coding Wiki
 
 This wiki summarizes all of the key concepts I've learned right from day one as I pursue my goal of becoming a full time developer.  It begins with the most basic 'ground-level' foundations, and builds upon them.  It is specifically targeted to those who are brand new to coding, as a roadmap to help get started on the journey to becoming a developer.
+
 This wiki is the primary tool I use for distilling the most important and useful information I learn on a daily basis and capturing it all in one place.  It is the main 'go-to' that I plan to continually develop and grow over time.  It's intended to be as minimalist as possible, yet 'just comprehensive enough' that from a purely pragmatic standpoint, there shouldn't be a need to spend extra time researching and re-reading large amounts of source material.  However, relevant and high quality source material is provided at the bottom of each page (when applicable) for those who seek to be more academic or need a more advanced or higher level of detail.
+
 I welcome and appreciate any and all critical feedback to improve this wiki, and hope it becomes a useful tool for many who aspire to learn how to code!
