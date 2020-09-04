@@ -1,23 +1,28 @@
 # Developer Workstation
 
-Computer
+**Computer**
 
 - PC
 - Laptop
 - Screens
 
-Operating Systems
+**Operating System**
 
-- Linux
-- MacOSx
-- Windows
+- [Linux](Linux)
+  - [Ubuntu](Ubuntu)
+  - [Debian](Debian)
+  - [Arch Linux](/devenv/station/arch.wiki)
+- [MacOSx](MacOSx)
+- [Windows](Windows)
 
-Workstation Tools
+**Basic Tools**
 
-- Editor
-- Terminal
-- Shell
-- File Manager
-- EWindows Manager
-- 
-
+- [Editor](Editor)
+- [Terminal](Terminal)
+- [Shell](Shell)
+- [File Manager]()
+- [Desktop Environment]()
+  - Windows Manager
+  - Traditional
+- [Web Browser]()
+- [Email Client](Email Client)

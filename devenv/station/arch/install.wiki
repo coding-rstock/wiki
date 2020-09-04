@@ -1,0 +1,44 @@
+# Arch Install Guide for Beginners
+
+This guide is intended to supplement the [Arch Linux Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide), as it isn't straightforward enough for a person brand new to Linux to follow.   You will need a laptop with both this guide and the Arch Install guide open side by side in 2 windows.  Be prepared and pay extreme attention to detail, because if you miss a step, it could mean having to restart.
+
+| #    | STEP                | HELP LINK | NOTES | TERMINAL COMMAND |
+| ---- | ------------------- | --------- | ----- | ---------------- |
+| 1    | Create Bootable USB | Link      |       |                  |
+| 2    | Verify boot mode    |           |       |                  |
+| 3    |                     |           |       |                  |
+| 4    |                     |           |       |                  |
+| 5    |                     |           |       |                  |
+| 6    |                     |           |       |                  |
+| 7    |                     |           |       |                  |
+| 8    |                     |           |       |                  |
+| 9    |                     |           |       |                  |
+| 10   |                     |           |       |                  |
+| 11   |                     |           |       |                  |
+| 12   |                     |           |       |                  |
+| 13   |                     |           |       |                  |
+| 14   |                     |           |       |                  |
+| 15   |                     |           |       |                  |
+| 16   |                     |           |       |                  |
+| 17   |                     |           |       |                  |
+| 18   |                     |           |       |                  |
+| 19   |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+|      |                     |           |       |                  |
+
+
+
+1. Create Bootable USB
+2. Begin with "Verify boot mode"
+3. When mounting partitions, you must mount 
+
+
+
