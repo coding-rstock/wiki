@@ -1,0 +1,23 @@
+# Developer Resources
+---
+
+### Main Go-To
+---
+
+- [Vim](https://www.vim.org/docs.php)
+
+- [YouTube](https://www.youtube.com/channel/UCvTAXZYazlfiB8ooWFjU6zQ?disable_polymer=true)
+	- [DistroTube](https://www.youtube.com/c/DistroTube/videos?view=0&sort=p&shelf_id=7) 
+- [Reddit](reddit.com)
+
+- [ArchWiki](https://wiki.archlinux.org/)
+
+### Free Tutorials
+---
+
+- [Free Code Camp](freecodecamp.org)
+- [Code Academy](codeacademy.com)
+- [eDX](https://www.edx.org/search?subject=Computer%20Science&tab=course)
+- 
+
+
