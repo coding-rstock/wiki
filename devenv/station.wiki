@@ -1,28 +1,32 @@
 # Developer Workstation
 
-**Computer**
-
-- PC
-- Laptop
-- Screens
-
 **Operating System**
 
 - [Linux](Linux)
-  - [Ubuntu](Ubuntu)
-  - [Debian](Debian)
   - [Arch Linux](/devenv/station/arch.wiki)
+  - Ubuntu
 - [MacOSx](MacOSx)
-- [Windows](Windows)
+- Windows
 
-**Basic Tools**
+**Developer Tools**
 
+- [Git](git)
 - [Editor](Editor)
 - [Terminal](Terminal)
 - [Shell](Shell)
 - [File Manager]()
-- [Desktop Environment]()
-  - Windows Manager
-  - Traditional
+- [Desktop Environment](/devenv/station/desktop.wiki)
 - [Web Browser]()
 - [Email Client](Email Client)
+- Notes Manager
+- 
+
+**Computer & Hardware**
+
+- PC
+- Laptop
+- Accessories
+  - Mouse
+  - Keyboard
+  - External Storage
+  - Headphones

@@ -1,0 +1,13 @@
+# Desktop Environment
+
+There are 3 types of desktop environments:
+1. Traditional
+2. Window Managers
+3. Command Terminal
+
+### Window Managers
+
+- [i3wm](i3wm)
+- sway
+- bspwm
+- 

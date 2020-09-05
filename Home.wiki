@@ -7,6 +7,27 @@ I welcome and appreciate any and all critical feedback to improve this wiki, and
 ### Table of contents
 ---
 
-- [Development Environment](/devenv/devenv)
-- Workspace
-- Workstation
+- [Creating Your Development Environment](/devenv/devenv)
+- [The Developer's Greatest Asset](The Developer's Greatest Asset)
+- [Computer Languages](Languages)
+- [Time & Workflow Management](Time & Workflow Management)
+
+### The Developer's Greatest Asset
+
+---
+
+Great software and apps are not created by the development environment, or the developer tools.  They are imagined and created in our brain.   A developer must learn how effectively use and "rewire" their brain to: maximize learning (and how to "unlearn"), how to be creative, how to effectively use intuition, how to think critically, and how to solve problems in order to rise to the level of an "expert" developer.   Brainpower, attention, and focus are all precious yet limited resources that must be stewarded well.  Learning how to take care of our mental and physical health is also paramount, because they are closely interconnected.
+
+### Computer Languages
+
+---
+
+Computer languages are how developers speak to a computer and instruct it what to do.  A developer must learn several over the course of their career.   There are several classes of computer languages, spanning 1000's of languages.
+(Expand)
+
+### Time & Workflow Management
+
+---
+
+Learning time & workflow management is a key cornerstone in learning how to become a productive developer, and these skills should be focused on early in a developer's career.  There are several tools that can help develop these skills.
+(Expand)
