@@ -1,0 +1,8 @@
+### Computer Languages
+
+---
+
+Computer languages are how developers speak to a computer and instruct it what to do.  A developer must learn several over the course of their career.   There are several classes of computer languages, spanning 1000's of languages.
+(Expand)
+
+

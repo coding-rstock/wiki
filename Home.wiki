@@ -1,33 +1,53 @@
 # Richard's Coding Wiki
 
-This wiki summarizes all of the key concepts I've learned right from day one as I pursue my goal of becoming a full time developer.  It begins with the most basic 'ground-level' foundations, and builds upon them. It is the primary location for all important and useful information I learn on a daily basis.  It's intended to be as minimalist as possible, relying on high quality source material for academia, while still providing a fairly complete coverage of the concepts from a pragmatic user's perspective.
+This wiki is where I store literally all of the info and resouces I've obtained right from day one as I pursue my goal of becoming a full time developer.  It begins with the most basic 'ground-level' foundations, and builds upon them. 
+
+It's written by a beginner, for other beginners.  In terms of content, it's as minimalist as possible, relying on high quality material that's already available online.  In terms of scope, it's as comprehensive as necessary to provide a full and complete coverage of what is important from a pragmatic perspective.
 
 I welcome and appreciate any and all critical feedback to improve this wiki, and hope it becomes a useful tool for many who aspire to learn how to code!
 
 ### Table of contents
 ---
 
-- [Creating Your Development Environment](/devenv/devenv)
-- [The Developer's Greatest Asset](The Developer's Greatest Asset)
-- [Computer Languages](Languages)
-- [Time & Workflow Management](Time & Workflow Management)
+- [The Fundamentals](/fundamentals/fmain.wiki)
+- [The Developer Environment](/devenv/dmain.wiki)
+- [Computer Languages](/languages/lmain.wiki)
+- [Resources](/resources/rmain.wiki)
 
-### The Developer's Greatest Asset
-
+### Current Workspace
 ---
 
-Great software and apps are not created by the development environment, or the developer tools.  They are imagined and created in our brain.   A developer must learn how effectively use and "rewire" their brain to: maximize learning (and how to "unlearn"), how to be creative, how to effectively use intuition, how to think critically, and how to solve problems in order to rise to the level of an "expert" developer.   Brainpower, attention, and focus are all precious yet limited resources that must be stewarded well.  Learning how to take care of our mental and physical health is also paramount, because they are closely interconnected.
+**Linux Build**
 
-### Computer Languages
+- [] configure polybar (git repo)
+- [] get cool terminal fonts installed
+- [] Download 4K wallpapers
+- [] Install terminal goodies (htop, neofetch, etc)
+- [] i3 mnemonic key bindings
+- [] i3 open certain programs in workspaces
+- [] install Ranger plugins
+- [] install Spotify client (if can find Bluetooth USB dongle emulator). Maybe order one on Amazon or BestBuy
+- [] install Lazy git
+- [] figure out xclip Copy paste
+- [] Figure out how to set up automated git repo for .dotfiles management (preferably something from PacMan)
+- [] learn the way to safely update the entire system without breaking the packages, especially AUR (do those update along with the system?)
+- [] Figure out how to run the LTS kernel and make a guide on it.
+- [] Do a basic security check - learn from Arch Wiki.
 
----
+**Practice**
 
-Computer languages are how developers speak to a computer and instruct it what to do.  A developer must learn several over the course of their career.   There are several classes of computer languages, spanning 1000's of languages.
-(Expand)
+- [] Vim
 
-### Time & Workflow Management
+**Wiki**
 
----
+- [] add Fundamentals (algos, syntax, abstraction, problem solving, thinking, etc), installing Ruby (rbenv & gems), apple dev resources, app development
+- [] Add laptop git repo for wiki, can edit pages in Markdown).
+- [] Add to do list (this stuff)
+- [] Figure out how to integrate everything (my website, wiki, everything) to one place.  Hook Gollum to GitLab?
 
-Learning time & workflow management is a key cornerstone in learning how to become a productive developer, and these skills should be focused on early in a developer's career.  There are several tools that can help develop these skills.
-(Expand)
+**Learning**
+
+- [] Algorithms and Data Structures
+- [] Pragmatic books
+- [] Shape Up book
+

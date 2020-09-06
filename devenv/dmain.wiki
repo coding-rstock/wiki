@@ -1,0 +1,54 @@
+# Creating Your Development Environment
+
+Creating and customizing your development environment to suit *your workstyle* is mandatory before beginning to code, just as a carpenter needs to set up their shop, workbench, and tools before building a table or chair.
+
+Without a proper environment your work flow will be inevitably cause frustration later, so there's no point in delaying setting it up prior to beginning to coding.  As a beginner it is extremely challenging to "learn a new language", "how to use a certain software", or "how to problem solve" if the development environment feels foreign.
+
+Below are all the components that collectively form the development environment, with links to further detail and resources on each.
+
+**Operating System**
+---
+ 
+- [Linux](Linux)
+  - [Arch Linux](Arch Linux)
+  - Ubuntu  
+- MacOSx
+- Windows  
+  
+**Developer Tools**    
+---
+ 
+- [Git](Git)
+- [Editor](Editor)
+- [Terminal](Terminal)
+- [Shell](Shell)
+
+**Administrative Tools**
+---
+
+- [File Manager](File Manager)    
+- [Desktop Environment](Desktop Environment)
+- Web Browser    
+- Email Client
+- Notes Manager
+- 
+ 
+**Computer & Hardware**    
+---
+ 
+- PC
+- Laptop
+- Accessories
+  - Monitors
+  - Mouse
+  - Keyboard
+  - External Storage
+  - Headphones
+ 
+**Workspace**    
+---
+ 
+- Desk
+- Chair
+- Office Space
+- Ergonomics
