@@ -6,7 +6,7 @@ It's written by a beginner, for other beginners.  In terms of content, it's as m
 
 I welcome and appreciate any and all critical feedback to improve this wiki, and hope it becomes a useful tool for many who aspire to learn how to code!
 
-### Table of contents
+### Table of Contents
 ---
 
 - [The Fundamentals](/fundamentals/fmain.wiki)

@@ -16,7 +16,7 @@ Arch Linux strives to be on the "cutting edge", with a rolling release model tha
 
 ---
 
-[Installation Guide (for Beginners)](/devenv/station/arch/install.wiki):  this guide supplements the Installation Guide provided by Arch, to make it easier for beginners to be able to install Arch.
+[Installation Guide (for Beginners)](/devenv/arch/install.wiki):  this guide supplements the Installation Guide provided by Arch, to make it easier for beginners to be able to install Arch.
 
 [Post Install Guide (for Beginners)](Post Install Guide for Beginners):  what to do after you've installed Arch.
 
