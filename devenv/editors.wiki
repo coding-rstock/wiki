@@ -10,6 +10,23 @@ There is a time and a place for using different editors given different circumst
 
 - [Official Vim Documentation](https://www.vim.org/docs.php): see books, help files, FAQ, Tips, Wiki, etc.
 
+- [MIT Lecture: Intro to Vim](https://youtu.be/a6Q8Na575qc): see notes [here](https://missing.csail.mit.edu/2020/editors/)
+- Vim Keybindings
+	- [Website](https://vim.rtorr.com/)
+	- [Poster](https://i.imgur.com/YLInLlY.png)
+	- [Movement Keys](https://i.imgur.com/CjREO9t.png)
+	- [Reddit](https://www.reddit.com/search/?q=title%3Acheatsheet%20subreddit%3Avim&sort=top) 
+	- [iBhagwan's cheat sheet](https://github.com/ibhagwan/dots/blob/master/README-vim.md)
+	- [Text Reference](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
+	- [Wallpaper](https://i.redd.it/97r2vp1hxk121.jpg)
+
+- Video Tutorials
+	- Thoughtbot ([Navigation](https://youtu.be/Qem8cpbJeYc) | [Mastering Vim](https://youtu.be/wlR5gYd6um0) | [Vim in a Week](https://www.youtu.be/NUO4JEtkDw) | [Completion](https://youtu.be/3TX3kV3TICU) | [Full Playlist](https://www.youtube.com/playlist?list=PL8tzorAO7s0jy7DQ3Q0FwF3BnXGQnDirs))
+	- Distrotube ([Part 1](https://youtu.be/ER5JYFKkYDg) | [Part 2](https://youtu.be/tExTz7GnpdQ) | [Command Mode](https://youtu.be/tExTz7GnpdQ) | [Splits](https://youtu.be/Zir28KFCSQw)) 
+
+
+
+
 ### NeoVim
 ---
 
