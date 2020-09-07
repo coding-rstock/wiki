@@ -1,16 +1,14 @@
-### Distributed Version Control Systems (Git)
+### Distributed Version Control Systems (& Git)
 ---
 
 A **version control system (VCS)** is a system that records changes to a file or set of files ("a repository") over time so that you can recall specific versions of the repository later.
 
 A **distributed VCS** is a VCS in which the repository is cloned on all of the machines that are in collaboration with the repository (the central server(s) and each and every client). Thus, if any server dies, any of the client repositories can be copied back onto the server to restore it. Every clone is really a full backup of all the data.  This makes it virtually impossible to destory a DVCS repository.
 
-**Git** is a DVCS that has become the defacto DVCS used by all programmers due to it's supremacy in it's speed, design, support for non-linear developemnt, and the size of projects it can handle (for example the Linux kernel).
-
 ### Git
 ---
 
-Git is a DVCS developed by the Linux development community in 2005 that has become the defacto DVCS used by all virtually all developers due to it's supremacy in it's speed, design, support for non-linear developemnt, and the size of projects it can handle (for example the Linux kernel).
+**Git** is a DVCS developed by the Linux development community in 2005 that has become the defacto DVCS used by all virtually all developers due to it's supremacy in it's speed, design, support for non-linear developemnt, and the size of projects it can handle (for example the Linux kernel).
 
 **Git Documentation**
 
@@ -19,7 +17,7 @@ Git is a DVCS developed by the Linux development community in 2005 that has beco
 **Git Resources**
 
 - [Official Git Resources](https://git-scm.com/doc/ext): see tutorials, books, videos and courses
-- MIT Lecure: Intro to Git: notes provided, including video timestamps
+- [MIT Lecure: Intro to Git](/devenv/git_lecture.wiki): notes provided, including video timestamps
 - 
 
 

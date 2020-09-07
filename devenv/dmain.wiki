@@ -19,7 +19,7 @@ Below are all the components that collectively form the development environment,
 ---
 
 - [Distributed Version Control System (Git)](/devenv/git.wiki)
-- [Editors](Editor)
+- [Editors](/devenv/editors.wiki)
 - [Terminal](Terminal)
 - [Shell](Shell)
 - [Tiling Windows Manager](Tiling Windows Manager)
