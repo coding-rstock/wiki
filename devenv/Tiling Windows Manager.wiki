@@ -18,4 +18,6 @@ Below are some popular tiling windows managers:
 **Tutorials**
 
 - [Official i3 Tutorials](https://i3wm.org/screenshots/)
-- 
+
+Code Cast | [Part 1](https://youtu.be/j1I63wGcvU4) | [Part 2](https://youtu.be/8-S0cWnLBKg) | [Part 3](https://youtu.be/ARKIwOlazKI) |
+
