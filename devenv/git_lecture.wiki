@@ -1,6 +1,6 @@
 ### MIT Lecture: Intro to Git
 ---
-<<Video(https://www.youtube.com/embed/2sjqTHE0zok?start=49)>>
+<<Video(https://www.youtube.com/2sjqTHE0zok?start=49)>>
 <br/>
 
 ***Notes***:
