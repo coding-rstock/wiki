@@ -1,0 +1,21 @@
+# Tiling Windows Manager
+
+A **tiling window manager** is a GUI which organizes windows into non-overlapping frames, as opposed to the typical stacking of overlapping windows.  
+
+A tiling windows manager is an essential tool for developers, as they have a large number of windows open at any given time, and need to organize much more efficiently than the typical user.  It prevents a messy disorganized workflow from happening.
+
+It also allows incredibly powerful features such as multiple workspaces and multiple keybinding modes, which essentially make your screens and keyboards infinitely more functional.  For example, if a user creates 20 workspaces on a dual screen setup, they have the ability to switch between 40 screens.  If a user creates 10 keybinding modes, they have ability to switch between 10 keyboards.  This is an extremely useful and timesaving feature, that essentially nullifies the need to use a mouse.
+
+Below are some popular tiling windows managers:
+
+## i3
+
+**Documentation**
+
+- [Official i3 User Guide](https://i3wm.org/docs/): see User's Guide, multi-monitor, etc.
+- [Arch Wiki i3 Page](https://wiki.archlinux.org/index.php/I3): see bottom of page for resources
+
+**Tutorials**
+
+- [Official i3 Tutorials](https://i3wm.org/screenshots/)
+- 

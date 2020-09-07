@@ -38,7 +38,7 @@ Distrotube |[Part 1](https://youtu.be/ER5JYFKkYDg) | [Part 2](https://youtu.be/t
 
 ## NeoVim
 
-- [Official Neovim Documentation](https://neovim.io/doc/): see user manual, wiki.
+- [Official Neovim Documentation](https://neovim.io/doc/): see user manual, FAQ.
 
 
 ## VS Code
