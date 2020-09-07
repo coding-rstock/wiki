@@ -5,20 +5,23 @@ Editors are the tools developers use to write and compile their code.  They rang
 
 There is a time and a place for using different editors given different circumstances and types of projects, however typically it's best practice to get very familiar with one or two editors and learn how to use them very well, instead of "hopping" around trying different editors.  
 
-### Vim
+## Vim
 ---
 
 **Documentation**
+---
 
 - [Official Vim Documentation](https://www.vim.org/docs.php): see books, help files, FAQ, Tips, Wiki, etc.
 
 **Vim Books**
+---
 
 - [Modern Vim](https://drive.google.com/file/d/1PHA79fbiDp56D9aCHrEIdK4T_5Ein2kf/view?usp=sharing)
 - [Practical Vim](https://drive.google.com/file/d/1cvYSVUHa1qSJCOQexdknLOwy0zvdkwlO/view?usp=sharing)
 - [Learning the Vi and Vim Editors (7th Edition)](https://drive.google.com/file/d/1SV6c9ZYMEVuIOGTuD-7QMKHEpS7UdMA_/view?usp=sharing)
 
 **Vim Tutorials**
+---
 
 MIT Lecture: Intro to Vim: | [Video](https://youtu.be/a6Q8Na575qc) | [Notes](https://missing.csail.mit.edu/2020/editors/) |
 
@@ -28,6 +31,7 @@ Distrotube |[Part 1](https://youtu.be/ER5JYFKkYDg) | [Part 2](https://youtu.be/t
 
 
 **Vim Keybindings**
+---
 
 - [Website](https://vim.rtorr.com/)
 - [Poster](https://i.imgur.com/YLInLlY.png)
@@ -38,12 +42,12 @@ Distrotube |[Part 1](https://youtu.be/ER5JYFKkYDg) | [Part 2](https://youtu.be/t
 - [Wallpaper](https://i.redd.it/97r2vp1hxk121.jpg)
 
 
-### NeoVim
+## NeoVim
 ---
 
 - [Official Neovim Documentation](https://neovim.io/doc/): see user manual, wiki.
 
 
-### VS Code
+## VS Code
 ---
 
