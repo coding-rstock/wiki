@@ -14,7 +14,7 @@ There is a time and a place for using different editors given different circumst
 
 **Resources**
 
-- [MIT Lecture: Intro to Vim](https://youtu.be/a6Q8Na575qc): see notes [here](https://missing.csail.mit.edu/2020/editors/) 
+- [MIT Lecture: Intro to Vim](https://youtu.be/a6Q8Na575qc): see notes [here](https://missing.csail.mit.edu/2020/editors/)
 **Vim Keybindings**
 
 - [Website](https://vim.rtorr.com/)
