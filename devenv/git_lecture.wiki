@@ -1,15 +1,6 @@
+### MIT Lecture: Intro to Git
 ---
-title: rwx 4
-date: 2020-08-07
-categories: [rwx]
-tags: [git]     # TAG names should always be lowercase
-author: Richard Stock
----
-
-### August 7, 2020:   Watched MIT Lecture on Git
----
-<iframe width="800" height="450" src="https://www.youtube.com/embed/2sjqTHE0zok?start=49" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<<Video(https://www.youtube.com/embed/2sjqTHE0zok?start=49)>>
 <br/>
 
 ***Notes***:
