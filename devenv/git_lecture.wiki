@@ -1,7 +1,12 @@
 ### MIT Lecture: Intro to Git
 ---
-<<Video(https://www.youtube.com/2sjqTHE0zok?start=49)>>
+<<Video(https://www.youtube.com/watch?v=2sjqTHE0zok?start=49)>>
 <br/>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2sjqTHE0zok?start=49)
+" target="_blank"><img src="http://img.youtube.com/vi/2sjqTHE0zok/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="800" height="450" border="10" /></a>
+
 
 ***Notes***:
 
@@ -46,18 +51,3 @@
     - `git ignore`:  ignore certain files in your repo that you don’t want in your working project.  
     - Shell integrations (zsh, bash): have `git status` as part of your shell
     - Editor integrations: ex: there are Vim plugins specifically designed for Git. 
-
-
-***Execute***:
-
-Over the weekend I plan to: 
-
-- read more of GitLab basics / Pro Git book.  
-- look into Vimwiki, 
-- continue watching videos about Linux and its terminal.
-
-I'll resume sending 'rwx' emails on Monday.  
-
-Have a great weekend! 
-
-> Have a great weekend Richard! Yeah buddy!
