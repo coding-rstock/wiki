@@ -14,6 +14,10 @@ A **distributed VCS** is a VCS in which the repository is cloned on all of the m
 
 - [Official Git Documentation](https://git-scm.com/doc): see the manual, "Pro Git" book, and videos
 
+**Git Books**
+
+- [Version Control with Git](https://drive.google.com/file/d/1eMgUtfI8sNOaPFvVV87EGjTX7TlWcpuC/view?usp=sharing) 
+
 **Git Resources**
 
 - [Official Git Resources](https://git-scm.com/doc/ext): see tutorials, books, videos and courses

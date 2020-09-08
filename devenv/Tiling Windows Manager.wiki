@@ -20,4 +20,15 @@ Below are some popular tiling windows managers:
 - [Official i3 Tutorials](https://i3wm.org/screenshots/)
 
 Code Cast | [Part 1](https://youtu.be/j1I63wGcvU4) | [Part 2](https://youtu.be/8-S0cWnLBKg) | [Part 3](https://youtu.be/ARKIwOlazKI) |
+**Configuring i3**
+
+- [User Manual: Configuring i3](https://i3wm.org/docs/userguide.html#configuring)
+	- [Binding Modes](https://i3wm.org/docs/4.14/userguide.html#binding_modes)
+
+**Customization**
+
+- Auto Color scheme (pywal)
+- Status Bar (polybar)
+- 
+- 
 

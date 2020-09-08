@@ -9,9 +9,9 @@ I welcome and appreciate any and all critical feedback to improve this wiki, and
 ### Table of Contents
 ---
 
-- [The Fundamentals](/fundamentals/fmain.wiki)
+- The Fundamentals
 - [The Developer Environment](/devenv/dmain.wiki)
-- [Computer Languages](/languages/lmain.wiki)
+- Computer Languages
 - [Resources](/resources/rmain.wiki)
 
 ### Current Workspace

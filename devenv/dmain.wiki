@@ -9,7 +9,7 @@ Below are all the components that collectively form the development environment,
 **Operating System**
 ---
  
-- [Linux](Linux)
+- Linux
   - [Arch Linux](/devenv/arch/arch.wiki)
   - Ubuntu  
 - MacOSx
@@ -20,20 +20,17 @@ Below are all the components that collectively form the development environment,
 
 - [Distributed Version Control System (Git)](/devenv/git.wiki)
 - [Editors](/devenv/editors.wiki)
-- [Terminal](Terminal)
-- [Shell](Shell)
+- Terminal
+- Shell
 - [Tiling Windows Manager](Tiling Windows Manager)
-- [Essential Software](Essential Software)
+- Essential Software
 
 **Administrative Tools**
 ---
-
-- [File Manager](File Manager)    
-- [Desktop Environment](Desktop Environment)
+    
 - Web Browser    
 - Email Client
-- Notes Manager
-- 
+- Notes Manager 
  
 **Computer & Hardware**    
 ---
