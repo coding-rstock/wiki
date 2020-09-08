@@ -16,19 +16,21 @@ Arch Linux strives to be on the "cutting edge", with a rolling release model tha
 
 ---
 
-[Installation Guide (for Beginners)](/devenv/arch/install.wiki):  this guide supplements the Installation Guide provided by Arch, to make it easier for beginners to be able to install Arch.
+- [Installation Guide (for Beginners)](/devenv/arch/install.wiki):  this guide supplements the Installation Guide provided by Arch, to make it easier for beginners to be able to install Arch.
 
-[Post Install Guide (for Beginners)](Post Install Guide for Beginners):  what to do after you've installed Arch.
+- Post Install Guide (for Beginners):  what to do after you've installed Arch.
 
-[Package Management](Package Management): how to install, uninstall, and upgrade Arch.
+- Package Management: how to install, uninstall, and upgrade Arch.
 
-[System Backups](System Backups):  how to backup your Arch installation.
+- System Backups:  how to backup your Arch installation.
 
-[Setting up a Developer Environment](Setting up a Developer Environment):  setting up an efficient and productive Arch workstation.
+- Setting up a Developer Environment:  setting up an efficient and productive Arch workstation.
 
-### Important Arch Wiki Links
+### Customizing Arch Linux
 
----
+- [Polybar](Polybar): highly customizable bar that replaces the default tiling windows manager bar.
+- Pywal: generates auto color schemes for your programs based on your background.
+
 
 
 

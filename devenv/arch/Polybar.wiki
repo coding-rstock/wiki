@@ -1,0 +1,20 @@
+# Polybar
+
+**Polybar** is a fast and easy-to-use tool for creating status bars. It aims to be easily customizable, utilising many modules which enable a wide range of (editable) functionality, such as displaying workspaces, the date, or system volume. Polybar is especially useful for window managers that have a limited or non-existent status bar, such as i3.
+
+## Documentation
+
+- [Arch Wiki](https://wiki.archlinux.org/index.php/Polybar)
+- [GitHub source](https://github.com/polybar/polybar)
+- [GitHub manual](https://github.com/polybar/polybar/wiki/Configuration)
+
+## Resources
+
+- Reddit: [Home](https://www.reddit.com/r/Polybar/) | [UP](https://www.reddit.com/search/?q=title%3Apolybar%20subreddit%3Aunixporn&sort=top)
+
+## Themes
+
+- [Collection 1](https://github.com/adi1090x/polybar-themes)
+- [Collection 2](https://github.com/ngynLk/polybar-themes)
+- Cyberpunk: [#1](https://www.reddit.com/r/unixporn/comments/b79cva/i3gapspolybarcyberpunk_theme_v2/) | [#2](https://www.reddit.com/r/unixporn/comments/8lukdn/i3_cyberpunk_synthwave_revamp_where_are_they_now/) | [#3](https://www.reddit.com/r/unixporn/comments/ii79py/bspwm_elektropunk_a_cyberpunk_2077_inspired_rice/)
+- 
