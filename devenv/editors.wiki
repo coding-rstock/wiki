@@ -6,6 +6,8 @@ There is a time and a place for using different editors given different circumst
 
 ## Vim
 
+- **[Richard's Vim Command Inventory](/devenv/vim.wiki)**
+
 **Documentation**
 
 - [Official Vim Documentation](https://www.vim.org/docs.php): see books, help files, FAQ, Tips, Wiki, etc.
@@ -24,6 +26,8 @@ Thoughtbot |[Navigation](https://youtu.be/Qem8cpbJeYc) | [Mastering Vim](https:/
 
 Distrotube |[Part 1](https://youtu.be/ER5JYFKkYDg) | [Part 2](https://youtu.be/tExTz7GnpdQ) | [Command Mode](https://youtu.be/tExTz7GnpdQ) | [Splits](https://youtu.be/Zir28KFCSQw)| 
 
+[Youtube Channel](https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw)
+[Resource List](https://github.com/kevinSuttle/learn-vim)
 
 **Vim Keybindings**
 

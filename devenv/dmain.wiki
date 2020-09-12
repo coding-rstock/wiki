@@ -22,7 +22,7 @@ Below are all the components that collectively form the development environment,
 - [Editors](/devenv/editors.wiki)
 - Terminal
 - Shell
-- [Tiling Windows Manager](Tiling Windows Manager)
+- [Tiling Windows Manager](/devenv/tiling_wm.wiki)
 - Essential Software
 
 **Administrative Tools**

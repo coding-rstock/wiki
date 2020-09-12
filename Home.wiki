@@ -10,44 +10,8 @@ I welcome and appreciate any and all critical feedback to improve this wiki, and
 ---
 
 - The Fundamentals
-- [The Developer Environment](/devenv/dmain.wiki)
+- [The Developer Environment]({% link devenv/dmain.md %})
 - Computer Languages
+- Software Development
 - [Resources](/resources/rmain.wiki)
-
-### Current Workspace
----
-
-**Linux Build**
-
-- [] configure polybar (git repo)
-- [] get cool terminal fonts installed
-- [] Download 4K wallpapers
-- [] Install terminal goodies (htop, neofetch, etc)
-- [] i3 mnemonic key bindings
-- [] i3 open certain programs in workspaces
-- [] install Ranger plugins
-- [] install Spotify client (if can find Bluetooth USB dongle emulator). Maybe order one on Amazon or BestBuy
-- [] install Lazy git
-- [] figure out xclip Copy paste
-- [] Figure out how to set up automated git repo for .dotfiles management (preferably something from PacMan)
-- [] learn the way to safely update the entire system without breaking the packages, especially AUR (do those update along with the system?)
-- [] Figure out how to run the LTS kernel and make a guide on it.
-- [] Do a basic security check - learn from Arch Wiki.
-
-**Practice**
-
-- [] Vim
-
-**Wiki**
-
-- [] add Fundamentals (algos, syntax, abstraction, problem solving, thinking, etc), installing Ruby (rbenv & gems), apple dev resources, app development
-- [] Add laptop git repo for wiki, can edit pages in Markdown).
-- [] Add to do list (this stuff)
-- [] Figure out how to integrate everything (my website, wiki, everything) to one place.  Hook Gollum to GitLab?
-
-**Learning**
-
-- [] Algorithms and Data Structures
-- [] Pragmatic books
-- [] Shape Up book
-
+- [Arch Linux Build](/arch/arch.md)
